@@ -1,9 +1,9 @@
 {
-    "name": "stechstudio/laravel-aws-lambda",
-    "version": "0.0.1",
+    "name": "michaeljwright/laravel-aws-lambda",
+    "version": "0.0.2",
     "description": "Allows php to respond to http requests on aws lambda",
     "keywords": ["laravel", "lumen", "aws", "php", "lambda"],
-    "homepage": "https://stechstudio.com/",
+    "homepage": "",
     "type": "library",
     "license": "MIT",
     "authors": [
